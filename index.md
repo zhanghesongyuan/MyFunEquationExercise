@@ -1,4 +1,4 @@
-## Welcome to 11111111
+## Welcome to My Fun Equation Exercise
 
 ![Image](icon-1024.png)
 
